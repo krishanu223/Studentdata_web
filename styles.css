@@ -1,0 +1,45 @@
+label {
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 50px;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+button {
+    width: 200px;
+    height: 70px;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.material-symbols-outlined {
+    color: red;
+    cursor: pointer;
+}
+
+li {
+    list-style: none;
+    font-size: 20px;
+    padding: 5px;
+}
+
+li:nth-last-child(odd) {
+    background-color: rgba(157, 246, 246, 0.371);
+}
+
+span {
+    background-color: rgb(0, 176, 0);
+}
+
+#studentdata {
+    margin-left: 55%;
+    margin-top: -390px;
+    overflow-y: scroll;
+}
